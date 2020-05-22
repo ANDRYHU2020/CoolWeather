@@ -1,0 +1,5 @@
+<root>
+    <item name='android.view.Gravity'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
